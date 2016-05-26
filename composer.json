@@ -1,5 +1,5 @@
 {
-  "name" : "Weixia/aligreen",
+  "name" : "weixia/aligreen",
   "version" : "1.0.0",
   "license": "MIT",
   "type": "library",
@@ -19,7 +19,7 @@
   },
   "autoload": {
      "psr-4": { 
-       "Weixia\\": "green/"
+       "weixia\\": "green/"
      }
   }
 }
