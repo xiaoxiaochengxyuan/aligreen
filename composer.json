@@ -1,6 +1,5 @@
 {
   "name" : "weixia/aligreen",
-  "version" : "v0.0.1",
   "license": "MIT",
   "type": "library",
   "require" : {
@@ -12,8 +11,8 @@
     "url" : "https://packagist.org/"
   }],
   "authors": [{
-    "name": "ruanwenqin",
-    "email": "452253895@qq.com"
+    "name": "xiawei",
+    "email": "398062080@qq.com"
   }],
   "autoload": {
      "psr-4": { 
